@@ -44,7 +44,6 @@ Além disso, também foram utilizadas as seguintes tecnologias/libs:
 - [ ] Exportar os componentes, hooks e demais pastas utilizando um **index**.
 - [ ] Alterar importações para utilizar um alias (caminhos relativos).
 - [ ] Verificar comportamento do Expo de alterar as cores baseados no tema do dispositivo.
-- [ ] Refatorar entidade "Pool" para "Poll" e todos os lugares em que a mesma aparece.
 
 ## 🧑‍ Sobre mim
 
